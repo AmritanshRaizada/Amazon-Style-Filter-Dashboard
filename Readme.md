@@ -8,7 +8,7 @@ Built using **React**, **TypeScript**, **Vite**, and `react-select`, this dashbo
 
 ## 🚀 Live Demo
 > 📎 Replace this link after deploying  
-https://your-vercel-link.vercel.app
+https://amazon-style-filter-dashboard.vercel.app/
 
 ---
 
