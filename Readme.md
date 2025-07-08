@@ -2,7 +2,8 @@
 
 An interactive, performant frontend application for dynamically filtering CSV datasets — inspired by Amazon’s faceted search UI.
 
-Built using **React**, **TypeScript**, **Vite**, and `react-select`, this dashboard supports multi-select filters that automatically update based on other filters' state. It’s capable of parsing large datasets and rendering filtered results efficiently.
+**Built as part of a frontend assignment for Loop.**  
+I designed this project to demonstrate real-world filtering logic, efficient data handling, and component-based UI development using React + TypeScript.
 
 ---
 
